@@ -32,7 +32,7 @@ In addition to my professional work, I'm constantly learning and exploring new t
 
 If you're interested in collaborating or have any questions, feel free to reach out to me:
 
-- LinkedIn: [Your LinkedIn Profile URL](https://www.linkedin.com/in/sajjadkhan212)
+- LinkedIn: (https://www.linkedin.com/in/sajjadkhan212)
 - Email: ksajjad660@gmail.com
 
 Thank you for visiting my profile!
