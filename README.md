@@ -1,41 +1,18 @@
-# Hi there, I'm Sajjad Khan 👋
-## DevOps Engineer | 3 Years of Experience
+# 💫 About Me:
+I am currently working as a DevOps engineer with Accenture Portugal<br>I have bachelor degree in software engineering and master degree in Cyber Security<br>I hold 5 GCP certifications and one terraform associate.<br>
 
-Welcome to my GitHub profile! I'm a DevOps engineer with a passion for automating and streamlining software delivery processes. I strive to bridge the gap between development and operations to build efficient, scalable, and reliable systems.
 
-### 🔧 Technologies and Tools
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajjadkhan212) 
 
-Here are some of the technologies and tools I work with:
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Sajjadkhan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sajjadkhan12&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjadkhan12&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **Cloud Platforms**: AWS, Azure, GCP
-- **Containerization and Orchestration**: Docker, Kubernetes
-- **Infrastructure as Code**: Terraform, CloudFormation
-- **CI/CD**: Jenkins, GitLab CI/CD, CircleCI
-- **Configuration Management**: Ansible, Puppet
-- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack
-- **Version Control**: Git
+---
+[![](https://visitcount.itsvg.in/api?id=Sajjadkhan12&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 📜 Experience
-
-- **Accenture ** (Braga, Portugal) \
-  *DevOps Engineer* \
-  *July, 2023 - Present*
-### 🌱 Interests
-
-In addition to my professional work, I'm constantly learning and exploring new technologies and practices within the DevOps ecosystem. Some of my current areas of interest include:
-
-- Serverless computing and Function as a Service (FaaS)
-- Infrastructure optimization and cost management
-- Security and compliance in cloud environments
-
-### 📫 Let's Connect
-
-If you're interested in collaborating or have any questions, feel free to reach out to me:
-
-- LinkedIn: (https://www.linkedin.com/in/sajjadkhan212)
-- Email: ksajjad660@gmail.com
-
-Thank you for visiting my profile!
-
-<!-- Add any other beautiful visuals or badges you'd like to showcase here -->
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
