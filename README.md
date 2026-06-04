@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a DevOps engineer with Accenture Portugal<br>I have bachelor degree in software engineering and master degree in Cyber Security<br>I hold 5 GCP certifications and one terraform associate.<br>
+I am currently working as a DevOps engineer with Devoteam Portugal<br>I have bachelor degree in software engineering and master degree in Cyber Security<br>I hold 5 GCP certifications and one terraform associate.<br>
 
 
 ## 🌐 Socials:
